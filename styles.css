@@ -1,0 +1,17 @@
+* {
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+ul {
+    list-style: armenian;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}

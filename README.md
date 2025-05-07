@@ -10,3 +10,7 @@ with CSS.
 By the end, I should have demonstrated that I have a solid grasp of HTML 
 elements, how they work, and what their purpose is, as well as how to structure 
 a basic web page with HTML.
+
+5/7/2025
+Added some basic CSS styling per the Block and Inline lesson in the Foundations 
+course.
